@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "e1c0dd3870bd450f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3591f4e5cc2df048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e744019e48ab511",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d89b7d89913d4caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b19ea54925cd40b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f41b41a50a70a71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "220e176e0eaf862f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14e89dc1a2980993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b9a9e0c1523bc8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87cceed60c2c4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d902b1938883d78e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a7c79698ca9b76f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b4297abf016e3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf5b5b21e701e5e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c7a166a737cbc73",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d12f7a590c4d9b9b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "2e744019e48ab511",
+  "lastOpenFiles": [
+    "课程/遥感随堂测试.md",
+    "learning notes/CS231N大纲.md",
+    "learning notes/2022-10-26 CS231N-课后思考后笔记.md",
+    "learning notes/2022-10-27-各种Normallize的区别.md",
+    "template/blog-post.md",
+    "learning notes/learning rate的设置.md",
+    "learning notes/各类梯度优化方法实现.md",
+    "learning notes/2021-04-25-深度学习环境搭建.md",
+    "周报/2022-10-24-第43周-周报.md",
+    "周报/周报-2022-10-18.md"
+  ]
+}

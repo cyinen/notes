@@ -1,0 +1,1 @@
+[tmux快速入门、嵌套、窗口分割、批处理_woswod的博客-CSDN博客_tmux 水平分割](https://blog.csdn.net/woswod/article/details/80353254)

@@ -1,0 +1,1 @@
+[PyTorch学习之十一种权重初始化方法_mingo_敏的博客-CSDN博客](https://blog.csdn.net/shanglianlm/article/details/85165523)
