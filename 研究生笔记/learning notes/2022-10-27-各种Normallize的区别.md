@@ -1,5 +1,10 @@
 [详解深度学习中的Normalization，BN/LN/WN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/33173246)
+
 ## 1、BatchNormalization
+
+BatchNorm技术是用来加速网络训练的，手段就是通过“Reducing Internal Covariate Shift（减小内部协变量偏移）
+
+主要是用来解决梯度消失的问题
 
 对于给定的输入 $X=\begin{bmatrix}x_1\\x_2\\...\\x_N\end{bmatrix}$, 
  $$
@@ -11,10 +16,15 @@
 
 \end{align}
  $$
+为了不降低模型的表达能力、使用了$\gamma$和$\beta$ 
+$$y_o=\gamma * y_i + \beta$$
 反向传播
 
 ![[Pasted image 20221027173017.png]]
-最终
+
+#### BatchNorm 在不同layer上的作用效果
+
+![[Pasted image 20221030160659.png]]
 
 ![[Pasted image 20221028161324.png]]
 
@@ -39,5 +49,17 @@ Describe the results of this experiment. What does this imply about the relation
 Batchsize越大、batch normalization的效果越好。
 因为Batchsize越大越接近整个数据集的分布、batchsize得到的均值和方差也就更接近真实数据的分布
 
-
+### BatchNorm的优缺点如下
+	- 需要较大的batch以体现整体数据分布
+	- 训练阶段需要保存每个batch的均值和方差，以求出整体均值和方差在infrence阶段使用
+	- 不适用于可变长序列的训练，如RNN
 ## 2、**Layer Normalization —— 横向规范化**
+
+对每一个$X_i$进行归一化，对样本就行归一化、与整体的数据无关
+
+克服了 *BatchNorm*的第一个缺点、需要较大的batchsize, 不依赖batchsize
+同样存在可以学习的参数$\gamma$和$\beta$
+但是只是在特征维度上进行缩放
+
+
+![[Pasted image 20221030160954.png]]
