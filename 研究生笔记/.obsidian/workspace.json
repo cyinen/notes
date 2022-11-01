@@ -11,8 +11,12 @@
             "id": "0149fa2a1be64af8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning notes/2022-10-31 RNN 循环神经网络.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning notes/2022-10-31 RNN 循环神经网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning notes/2022-10-31 RNN 循环神经网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning notes/2022-10-31 RNN 循环神经网络.md"
+              }
             }
           },
           {
@@ -147,11 +155,11 @@
   },
   "active": "0149fa2a1be64af8",
   "lastOpenFiles": [
+    "learning notes/2022-10-31 Word Embedding.md",
     "learning notes/2022-10-27-各种Normallize的区别.md",
+    "learning notes/2022-10-31 RNN 循环神经网络.md",
     "周报/2022-10-24-第43周-周报.md",
     "learning notes/2022-10-26 CS231N-课后思考后笔记.md",
-    "learning notes/2022-10-31 RNN 循环神经网络.md",
-    "learning notes/2022-10-31 Word Embedding.md",
     "周报/2022-10-31.md",
     "周报/周报-2022-10-25.md",
     "周报/周报-2022-10-18.md",
