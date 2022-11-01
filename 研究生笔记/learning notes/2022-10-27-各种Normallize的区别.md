@@ -17,7 +17,7 @@ BatchNorm技术是用来加速网络训练的，手段就是通过“Reducing In
 
 主要是用来解决梯度消失的问题
 
-对于给定的输入 $X=\begin{bmatrix}x_1\\x_2\\...\\x_N\end{bmatrix}$, 
+对于给定的输入 $$X=\begin{bmatrix}x_1\\x_2\\...\\x_N\end{bmatrix}$$
  $$
  \begin{align}
 
@@ -27,8 +27,11 @@ BatchNorm技术是用来加速网络训练的，手段就是通过“Reducing In
 
 \end{align}
  $$
+ 
 为了不降低模型的表达能力、使用了$\gamma$和$\beta$ 
+
 $$y_o=\gamma * y_i + \beta$$
+
 反向传播
 
 ![[Pasted image 20221027173017.png]]
