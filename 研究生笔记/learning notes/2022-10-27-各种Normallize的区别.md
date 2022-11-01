@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      2022-10-27 Normalization
+subtitle:   Normalization 的不同
+description: 
+date:       2022-10-31
+categories: deeplearning
+tags: Normalization
+comments: true
+---
+
 [详解深度学习中的Normalization，BN/LN/WN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/33173246)
 
 ## 1、BatchNormalization

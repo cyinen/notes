@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d153c1a7ced61855",
+        "id": "eb34b575b122f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "0149fa2a1be64af8",
+            "id": "3ac84416b10d9809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/blog-post.md",
+                "file": "learning notes/2015-10-20-math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/blog-post.md",
+                "file": "learning notes/2015-10-20-math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/blog-post.md",
+                "file": "learning notes/2015-10-20-math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/blog-post.md"
+                "file": "learning notes/2015-10-20-math.md"
               }
             }
           },
@@ -153,17 +153,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0f41b41a50a70a71",
+  "active": "3ac84416b10d9809",
   "lastOpenFiles": [
+    "learning notes/2022-10-27-各种Normallize的区别.md",
+    "learning notes/2022-10-31-RNN 循环神经网络.md",
     "learning notes/2022-10-24-各类梯度优化方法实现.md",
-    "learning notes/2022-02-01-redirect.md",
+    "learning notes/2022-10-26-CS231N-课后思考后笔记.md",
+    "learning notes/2021-04-25-深度学习环境搭建.md",
+    "learning notes/2022-10-31-Word Embedding.md",
+    "learning notes/2022-10-24-CS231N大纲.md",
     "learning notes/2021-07-04-diagrams.md",
     "learning notes/2020-09-28-twitter.md",
-    "learning notes/2015-10-20-math.md",
-    "learning notes/2015-07-15-code.md",
-    "learning notes/2015-05-15-images.md",
-    "learning notes/2015-03-15-formatting-and-links.md",
-    "learning notes/2022-10-31 RNN 循环神经网络.md",
-    "learning notes/2022-10-31 Word Embedding.md"
+    "learning notes/2018-12-22-distill.md"
   ]
 }
