@@ -11,5 +11,6 @@
   "showLineNumber": true,
   "spellcheck": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": true
 }

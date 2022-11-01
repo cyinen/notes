@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c0dc1bc0fe5653",
+        "id": "d153c1a7ced61855",
         "type": "tabs",
         "children": [
           {
-            "id": "93029bada4e1417e",
+            "id": "0149fa2a1be64af8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning notes/2022-10-27-各种Normallize的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b1152fa717b4974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码相关/pytorch 多线程使用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9826b1f2cadf5fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper reading/带着是十问题读论文.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b1a24b6e12a3ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper reading/论文写作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "371bd79dc64b87a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/weekly-report.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Saliency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "right": {
     "id": "b9a9e0c1523bc8b6",
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper reading/论文写作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper reading/论文写作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "paper reading/论文写作.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3b1a24b6e12a3ec9",
+  "active": "0149fa2a1be64af8",
   "lastOpenFiles": [
-    "paper reading/带着是十问题读论文.md",
-    "template/weekly-report.md",
-    "template/paper-reading.md",
-    "代码相关/pytorch 多线程使用.md",
-    "代码相关/conkyrc.md",
     "learning notes/2022-10-27-各种Normallize的区别.md",
-    "learning notes/attachments/Pasted image 20221028162246.png",
-    "learning notes/常见算子的前向传播&反向传播.md",
+    "周报/2022-10-24-第43周-周报.md",
+    "learning notes/2022-10-26 CS231N-课后思考后笔记.md",
+    "learning notes/2022-10-31 RNN 循环神经网络.md",
+    "learning notes/2022-10-31 Word Embedding.md",
+    "周报/2022-10-31.md",
+    "周报/周报-2022-10-25.md",
+    "周报/周报-2022-10-18.md",
     "learning notes/2021-04-25-深度学习环境搭建.md",
-    "learning notes/CS231N大纲.md"
+    "learning notes/训练的一些Trick.md"
   ]
 }
