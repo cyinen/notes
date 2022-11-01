@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b775036fc6e1eee8",
+        "id": "70f14627214cf806",
         "type": "tabs",
         "children": [
           {
-            "id": "58bc2378c39c7035",
+            "id": "3f5222cb79499e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning notes/2022-10-27-各种Normallize的区别.md",
+                "file": "learning notes/2022-10-31-RNN 循环神经网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning notes/2022-10-27-各种Normallize的区别.md",
+                "file": "learning notes/2022-10-31-RNN 循环神经网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning notes/2022-10-27-各种Normallize的区别.md",
+                "file": "learning notes/2022-10-31-RNN 循环神经网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning notes/2022-10-27-各种Normallize的区别.md"
+                "file": "learning notes/2022-10-31-RNN 循环神经网络.md"
               }
             }
           },
@@ -153,13 +153,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "58bc2378c39c7035",
+  "active": "3f5222cb79499e2d",
   "lastOpenFiles": [
+    "learning notes/2022-10-27-各种Normallize的区别.md",
+    "learning notes/2022-10-26-CS231N-课后思考后笔记.md",
     "周报/2022-10-24-第43周-周报.md",
     "learning notes/2022-10-31-RNN 循环神经网络.md",
-    "learning notes/2022-10-26-CS231N-课后思考后笔记.md",
     "learning notes/2015-10-20-math.md",
-    "learning notes/2022-10-27-各种Normallize的区别.md",
     "learning notes/2022-10-24-各类梯度优化方法实现.md",
     "learning notes/2021-04-25-深度学习环境搭建.md",
     "learning notes/2022-10-31-Word Embedding.md",
