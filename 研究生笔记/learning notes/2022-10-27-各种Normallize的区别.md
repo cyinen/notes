@@ -1,11 +1,11 @@
 ---
-layout:     post
-title:      2022-10-27 Normalization
-subtitle:   Normalization 的不同
-description: 
-date:       2022-10-31
+layout:     post
+title:      Normalization
+subtitle:   Normalization
+description: Normalization
+date:       2022-10-26
 categories: deeplearning
-tags: Normalization
+tags: notes Normalization
 comments: true
 ---
 

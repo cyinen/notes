@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      2022-10-31 Word Embedding
+title:      Word Embedding
 subtitle:   
 description: 
 date:       2022-10-31
